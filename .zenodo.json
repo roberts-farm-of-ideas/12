@@ -1,14 +1,19 @@
 {
-    "description": "DESCRIPTION_GOES_HERE.", 
-    "title": "Robert's Farm of Ideas: RUNNING_NUMBER_OF_IDEA -- RUNNING_TITLE_OF_IDEA", 
+    "description": "In the publication 'Spectral Unmixing-Based Reaction Monitoring of Transformations between Nucleosides and Nucleobases' (doi: https://doi.org/10.1002/cbic.202000204) it says: 'However, on average in approximately 1–2 % of all measurements, we observed increased absorption across the entire spectrum apparent as a distinct baseline shift (Figure 2C). This results in an inability to obtain accurate fits without manual spectral processing (which we choose to explicitly abstain from), as in these cases the baseline can be shifted >0.10 AU. The straightforward solution in this case is remeasurement of the sample in a different well, which generally resolves the problem.' To check this hypothesis, it would be great to check with a microscope the well, and/or pipette the 'failing' solution into a different well and measure again, and/or ... Any further ideas?", 
+    "title": "Robert's Farm of Ideas: 12 -- Try to observe with a microscope what is making an UV/Vis spectroscopy method fail", 
     "license": {
         "id": "CC-BY-4.0"
     }, 
     "notes": "Development is happening here: <a href='https://github.com/roberts-farm-of-ideas/RUNNING_NUMBER_OF_IDEA'>https://github.com/roberts-farm-of-ideas/RUNNING_NUMBER_OF_IDEA</a>", 
     "keywords": [
-        "KEYWORD1",
-        "",
-        "KEYWORDLAST"
+        "UV/Vis spectroscopy",
+        "spectroscopy",
+        "experimental failure",
+        "microscopy",
+        "investigate failure",
+        "multi-well plates",
+        "micro well",
+        "microtiter plate"
     ],
     "creators": [
     {
