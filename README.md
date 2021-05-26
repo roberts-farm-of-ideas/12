@@ -1,6 +1,6 @@
 # Robert's Farm of Ideas: 12 -- Try to observe with a microscope what is making an UV/Vis spectroscopy method fail 
 
-[![DOI of this idea](https://zenodo.org/badge/doi/CONCEPT_DOI_FROM_ZENODO.svg)](https://doi.org/CONCEPT_DOI_FROM_ZENODO)
+[![DOI of this idea](https://zenodo.org/badge/doi/10.5281/zenodo.4808352.svg)](https://doi.org/10.5281/zenodo.4808352)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## This idea in short
