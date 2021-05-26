@@ -1,10 +1,14 @@
-# Robert's Farm of Ideas: RUNNING_IDEA_NUMBER
+# Robert's Farm of Ideas: 12 -- Try to observe with a microscope what is making an UV/Vis spectroscopy method fail 
 
 [![DOI of this idea](https://zenodo.org/badge/doi/CONCEPT_DOI_FROM_ZENODO.svg)](https://doi.org/CONCEPT_DOI_FROM_ZENODO)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## This idea in short
-It's good to have a template for multiple related things.
+In the publication 'Spectral Unmixing-Based Reaction Monitoring of Transformations between Nucleosides and Nucleobases' (doi: https://doi.org/10.1002/cbic.202000204) it says:
+
+> However, on average in approximately 1–2 % of all measurements, we observed increased absorption across the entire spectrum apparent as a distinct baseline shift (Figure 2C). This results in an inability to obtain accurate fits without manual spectral processing (which we choose to explicitly abstain from), as in these cases the baseline can be shifted >0.10 AU. The straightforward solution in this case is remeasurement of the sample in a different well, which generally resolves the problem. 
+
+To check this hypothesis, it would be great to check with a microscope the well, and/or pipette the 'failing' solution into a different well and measure again, and/or ... Any further ideas? 
 
 ## Sounds great, but...
 You are interested in this topic? But the idea is gibberish and incomplete, or non-sense? Well, you're probably right! 
